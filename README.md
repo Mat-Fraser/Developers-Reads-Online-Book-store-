@@ -1,4 +1,4 @@
-# Developers-Reads-Online-Book-store-
+# Developers-Reads-Online-Book-store
 
 ## [Live Here](https://developers-reads.netlify.app/) ::- (Front-end Project)
 
